@@ -1,16 +1,18 @@
-## Hi there 👋
+Hey there 👋
 
-<!--
-**moonboy24/moonboy24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Moon , a Freenclancer from India.
 
-Here are some ideas to get you started:
+I'm currently working on upgrading in my skills right now and learning still.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I work on Full Stack Development , UI&UX Designing & Logo Designing . 
+
+This is a tech profile where I'm uploading my learnings and projects I work on. How about if wee Connect and contribute to work?
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Languages I work with:
+- HTML
+- CSS
+- Javascript
+- Python
+- SQL
